@@ -7,3 +7,4 @@ scripts/elm-script.cmd
 node_modules
 examples/reversed.txt
 elm.exe
+.ionide/symbolCache.db
